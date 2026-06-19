@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">
+  ⚡ Alex Gr ⚡
+</h1>
 
-<!--
-**alexgr999a-stack/alexgr999a-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Developer • Automation • AI Explorer • Gamer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+cool+things+with+code;Exploring+AI+and+Automation;Frontend+Developer;Python+Enthusiast;Always+Learning..." />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎮 Passionate about video games and technology
+
+🤖 Researching AI-powered automation systems
+
+💻 Building web applications and digital solutions
+
+🌱 Currently improving my Python and SQL skills
+
+⚡ Constantly experimenting with new technologies
+
+📍 Stack Developer from Latin America
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,bootstrap,git,github,vscode" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=netlify" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexgr999a-stack&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgr999a-stack&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Current Interests
+
+- Artificial Intelligence
+- AI Agents
+- Process Automation
+- Prompt Engineering
+- Web Development
+- Python Tools
+- Productivity Systems
+- Notion Workflows
+
+---
+
+## 🎮 Favorite Themes
+
+- Cyberpunk
+- Solo Leveling
+- Jujutsu Kaisen
+- Attack on Titan
+- RPG Games
+- Open World Games
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](TU_LINKEDIN)
+
+[Portfolio](TU_PORTAFOLIO)
+
+[Email](TU_EMAIL)
+
+---
+
+> "Automation doesn't replace creativity. It amplifies it."
