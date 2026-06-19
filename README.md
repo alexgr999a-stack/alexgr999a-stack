@@ -1,10 +1,6 @@
 <h1 align="center">
-  ⚡ Alex Gr ⚡
+  <img src="./assets/header.png" alt="Alex Gr Banner" width="100%">
 </h1>
-
-<h3 align="center">
-Developer • Automation • AI Explorer • Gamer
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+cool+things+with+code;Exploring+AI+and+Automation;Frontend+Developer;Python+Enthusiast;Always+Learning..." />
